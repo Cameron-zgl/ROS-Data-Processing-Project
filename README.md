@@ -39,4 +39,4 @@ These scripts are part of a larger project focused on ROS data processing and an
 
 ## Acknowledgments
 - This project utilizes ROS, an open-source robotics middleware, and other open-source libraries such as OpenCV and numpy.
-- The rosbag_dismemberment.py reference to the [euroc_dataset_tools](https://github.com/ToniRV/euroc_dataset_tools).
+- The code logic within `rosbag_dismemberment.py` draws inspiration from the [euroc_dataset_tools](https://github.com/ToniRV/euroc_dataset_tools) repository. 
